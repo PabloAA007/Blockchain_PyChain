@@ -1,5 +1,11 @@
 # PyChain on Streamlit
 
+In this step, we will be testing the code by running the PyChain Ledger. With the capacity of storing records while having an interactive user interface. We will be using Streamlite as the web interface to mine, store and record blocks. After adding the values on the sender, receiver and amount boxes a block data will be generated. 
+
+When the new data block is generated this will be recorded on our ledger. When the information hits the ledger a record (Block Data), creator ID, previous hash, timestamp and nonce. When the block is mined we can access it through the dropdown menu on the streamlit along all the blocks created. After all the transactions are recorded on the ledger we can validate the chain to confirm everything is right and valid.
+
+
+
 ![Screen Shot 2023-06-29 at 1 07 55 PM](https://github.com/PabloAA007/Blockchain_PyChain/assets/123980866/f4648e09-62b6-4642-a007-e4a69ca356c7)
 
 ![Screen Shot 2023-06-29 at 11 49 14 AM](https://github.com/PabloAA007/Blockchain_PyChain/assets/123980866/574bd614-4d2a-450d-bb31-ca44ac0733e8)
